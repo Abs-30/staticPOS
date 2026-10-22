@@ -1,0 +1,2 @@
+# staticPOS
+Updater for StaticPOS
